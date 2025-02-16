@@ -164,7 +164,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Prusament PLA Black @Prusa MINI 0.4 nozzle"
+        "Prusament PLA Jet Black @Prusa MINI 0.4 nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -226,7 +226,7 @@
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "Prusament PLA Black @Prusa MINI 0.4 nozzle",
+    "name": "Prusament PLA Jet Black @Prusa MINI 0.4 nozzle",
     "nozzle_temperature": [
         "200"
     ],
